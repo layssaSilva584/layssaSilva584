@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"><- 🔭 Sou estudante de um curso profissional...<br>- 📚Atualmente estou aprendendo inglês...<br>- ⚡ No meu tempo livre gosto de ler , escrever, assistir...</p>
+<p align="left" ...<br>- 📚Atualmente estou aprendendo inglês...<br>- ⚡ No meu tempo livre gosto de ler , escrever, assistir...</p>
 
 ###
 
